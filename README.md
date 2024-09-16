@@ -1,4 +1,8 @@
-# Portfolio
+<div align="center">
+
+![Portfolio](./src/assets/images/readmeTitle.png)
+
+</div>
 
 ## Description
 
