@@ -50,7 +50,7 @@
 }
 
 .heroImg {
-  width: 40%;
+  width: 35%;
   z-index: 1;
 
   animation-name: floating;
@@ -85,20 +85,6 @@
   z-index: 0;
 }
 
-/* .bottomBlur {
-  position: absolute;
-  width: 70vw;
-  height: 50vw;
-  min-width: 350px;
-  min-height: 250px;
-  top: 246px;
-  right: -25vw;
-  border-radius: 764px;
-  background: #3c474b;
-  filter: blur(100px);
-  z-index: 0;
-} */
-
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
@@ -107,11 +93,4 @@
   .content {
     align-items: center;
   }
-
-  .heroImg {
-    padding-bottom: 10px;
-  }
-
-  
 }
-

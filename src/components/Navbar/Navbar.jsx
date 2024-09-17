@@ -17,7 +17,7 @@ const Navbar = () => {
               ? getImageUrl("nav/close-icon.png")
               : getImageUrl("nav/menu-icon.png")
           }
-          alt="menu-button"
+          alt="menu-icon and close-icon by Icons8"
           onClick={() => setMenuOpen(!menuOpen)}
         />
         <ul
