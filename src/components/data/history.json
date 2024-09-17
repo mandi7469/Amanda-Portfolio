@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Ful-Time Student",
+    "organisation": "University of Central Florida",
+    "startDate": "June, 2024",
+    "endDate": "September, 2024",
+    "experiences": ["Full-Stack Coding Bootcamp", "Multiple projects"],
+    "imageSrc": "history/ucf.png"
+  },
+  {
+    "role": "Credentailing Specialist",
+    "organisation": "American Traveler Staffing Professionals",
+    "startDate": "February, 2022",
+    "endDate": "April, 2024",
+    "experiences": [
+      "Conducted audits of provider files",
+      "Onboarded healthcare providers"
+    ],
+    "imageSrc": "history/at.png"
+  }
+]
