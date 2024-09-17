@@ -30,6 +30,13 @@
   width: 35%;
 }
 
+.aboutP {
+  color: var(--color-text);
+  padding: 10px;
+  font-family: var(---font-roboto);
+}
+
+
 .aboutItems {
   color: var(--color-text);
   display: flex;
