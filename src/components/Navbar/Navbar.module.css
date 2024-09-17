@@ -15,6 +15,7 @@
   font-weight: 600;
   text-decoration: none;
   color: var(--ice-blue);
+  font-family: var(--font-playfair);
 }
 
 .menu {
@@ -30,7 +31,9 @@
 .menuItems a {
   font-size: 25px;
   color: var(--color-text);
+  font-family: var(--font-playfair);
   text-decoration: none;
+  
 }
 
 .menuBtn {

@@ -2,5 +2,18 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #C0E0DE; /* Changes the thumb color */
+  border-radius: 5px; /* Add rounded corners */
+}
+
+::-webkit-scrollbar {
+  width: 10px; /* Adjusts width*/
+  background-color: #050A15; /* Changes the thumb color */
 }

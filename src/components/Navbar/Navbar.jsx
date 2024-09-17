@@ -25,25 +25,25 @@ const Navbar = () => {
           onClick={() => setMenuOpen(false)}
         >
           <li>
-            <a href="about">
+            <a href="#about">
               {" "}
               <i className="bi bi-person p-1"></i>About
             </a>
           </li>
           <li>
-            <a href="resume">
+            <a href="#resume">
               {" "}
               <i className="bi bi-file-earmark-text p-1"></i>Resume
             </a>
           </li>
           <li>
-            <a href="projects">
+            <a href="#projects">
               {" "}
               <i className="bi bi-code-slash p-1"></i>Projects
             </a>
           </li>
           <li>
-            <a href="contact">
+            <a href="#contact">
               {" "}
               <i className="bi bi-envelope p-1"></i>Contact
             </a>
