@@ -29,13 +29,14 @@
 
 .menuItems a {
   font-size: 25px;
-  color: var(--ice-blue);
+  color: var(--color-text);
   text-decoration: none;
 }
 
 .menuBtn {
     height: 40px;
     width: 40px;
+    display: none;
   }
 
 @media screen and (max-width: 830px) {
@@ -68,8 +69,8 @@
     background: var(--mint-green);
     background: linear-gradient(
       0deg,
-      rgba(5, 10, 21, 0.657) 0%,
-      rgba(192, 224, 222, 0.366) 100%
+      rgba(5, 10, 21, 0.677) 0%,
+      rgba(192, 224, 222, 0.563) 100%
     );
     padding: 24px 33px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
