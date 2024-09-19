@@ -1,11 +1,11 @@
 [
   {
-    "role": "Ful-Time Student",
+    "role": "Full-Time Student",
     "organisation": "University of Central Florida",
     "startDate": "June, 2024",
     "endDate": "September, 2024",
     "experiences": ["Full-Stack Coding Bootcamp", "Multiple projects"],
-    "imageSrc": "history/ucf.png"
+    "imageSrc": "history/ucfLogo.png"
   },
   {
     "role": "Credentailing Specialist",
