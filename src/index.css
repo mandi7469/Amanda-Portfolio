@@ -15,5 +15,6 @@ html {
 
 ::-webkit-scrollbar {
   width: 10px; /* Adjusts width*/
+  height: 10px;
   background-color: #050A15; /* Changes the thumb color */
 }

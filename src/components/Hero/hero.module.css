@@ -41,12 +41,17 @@
 
 .contactBtn {
   text-decoration: none;
-  background-color: var(--ice-blue);
+  background-color: black;
   color: var(--color-text);
+  font-family: var(--font-roboto);
   border-radius: 100px;
-  font-size: 25px;
+  font-size: 20px;
   padding: 10px 18px;
-  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0 4px 0 #9eefe5;
+}
+
+.contactBtn:hover {
+  box-shadow: 0 0 10px #9eefe5;
 }
 
 .heroImg {

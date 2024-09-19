@@ -12,9 +12,10 @@ export const Resume = () => {
       <a
         href={pdf}
         download="AmandaChangaResume.pdf"
-        style={{ color: "#9eefe5", textDecoration: "none" }}
+        className={styles.resumeLink}
+        
       >
-        <i className="bi bi-file-earmark-text p-1"></i>Download
+        <i className="bi bi-file-earmark-text pe-1"></i>Download
       </a>
       <div className={styles.content}>
         <div className={styles.skills}>

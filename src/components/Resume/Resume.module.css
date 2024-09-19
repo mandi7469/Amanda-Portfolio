@@ -16,6 +16,18 @@
   text-transform: uppercase;
 }
 
+.resumeLink {
+  color: var(--ice-blue);
+  font-family: var(--font-playfair);
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.resumeLink:hover {
+  text-shadow: 1px 0 10px #9eefe5;
+}
+
 .content {
   display: flex;
   flex-direction: row;

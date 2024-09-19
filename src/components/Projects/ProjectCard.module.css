@@ -1,0 +1,70 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(192, 224, 222, 0.671) 0%,
+  rgba(255, 255, 255, 0) 100%);
+  padding: 18px 24px;
+  max-width: 345px;
+}
+
+.container:hover {
+  color: #111;
+  background: #9eefe5cb;
+  box-shadow: 0 0 100px #9eefe5;
+}
+
+.image {
+  margin-bottom: 26px;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 600;
+  font-family: var(--font-playfair);
+}
+
+
+.description {
+  margin-top: 6px;
+  font-size: 15px;
+  font-weight: 300;
+  font-family: var(--font-roboto);
+}
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style:none;
+  font-family: var(--font-roboto);
+}
+
+.skill {
+  font-size: 15px;
+  font-weight: 300;
+  padding: 2px 22px;
+}
+
+.links {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  font-family: var(--font-roboto);
+  color: var(--color-text);
+  font-size: 15px;
+  font-weight: 300;
+  border-radius: 100px;
+  background: var(--space-grey);
+  padding: 1px 20px;
+}
