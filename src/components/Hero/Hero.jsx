@@ -12,7 +12,7 @@ export const Hero = () => {
                 <Type />
               </div>
         <a href="mailto:mandi7469@aol.com" className={styles.contactBtn}>
-          Contact Me
+          Email Me
         </a>
       </div>
       <img

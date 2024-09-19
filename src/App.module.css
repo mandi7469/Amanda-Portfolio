@@ -6,4 +6,5 @@
   background-image: url(../assets/images/background.png);
   background-position: fixed;
   background-size: cover;
+  overflow: hidden;
 }
