@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Cosmic Quest",
+    "imageSrc": "projects/cosmicQuest.png",
+    "description": "Text-based Scifi Video game using restful API.",
+    "skills": ["MongoDB", "Express", "React", "Node"],
+    "demo": "https://cosmic-quest.onrender.com/",
+    "source": "https://github.com/mandi7469/Cosmic-Quest"
+  },
+  {
+    "title": "Shelfie",
+    "imageSrc": "projects/shelfie.png",
+    "description": "An application that allows the user to create and maintain a collection of books that they have read, or wish to read in the future.",
+    "skills": ["Handlebars", "Express", "Node", "PostgreSQL"],
+    "demo": "https://shelfie-53sl.onrender.com/",
+    "source": "https://github.com/mandi7469/Shelfie"
+  },
+  {
+    "title": "SVG Logo Maker",
+    "imageSrc": "projects/svg.png",
+    "description": "A command-line application that takes in user input to generate a logo and save it as an SVG file.",
+    "skills": ["Node", "JavaScript", "Inquirer"],
+    "demo": "https://drive.google.com/file/d/1jgl9_uwQXjhocPaFKiaU2EMhKSNe1saS/view?usp=sharing",
+    "source": "https://github.com/mandi7469/SVG-Logo-Maker"
+  },
+  {
+    "title": "Personal Blog",
+    "imageSrc": "projects/personalBlog.png",
+    "description": "Two-page website where users can input and veiw blog posts. It includes a content form, dynamically rendered blog posts, and a light/dark toggle mode.",
+    "skills": ["HTML", "JavaScript", "CSS"],
+    "demo": "https://mandi7469.github.io/Personal-Blog/",
+    "source": "https://github.com/mandi7469/Personal-Blog"
+  },
+  {
+    "title": "Task Board",
+    "imageSrc": "projects/taskBoard.png",
+    "description": "An application that allows users to manage and delete tasks.",
+    "skills": ["JQuery", "JavaScript", "HTML", "CSS"],
+    "demo": "https://mandi7469.github.io/Task-Board/",
+    "source": "https://github.com/mandi7469/Task-Board"
+  },
+  {
+    "title": "Employee Tracker",
+    "imageSrc": "projects/employeeTracker.png",
+    "description": "A command-line application to manage a company's employee database.",
+    "skills": ["Node", "PostgreSQL", "Inquirer"],
+    "demo": "https://drive.google.com/file/d/1coPUpQGTgcaYGv6AJaD5MF0DFNtYHn3U/view?usp=sharing",
+    "source": "https://github.com/mandi7469/SQL-Employee-Tracker"
+  }
+ 
+]
