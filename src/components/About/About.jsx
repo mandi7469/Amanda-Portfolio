@@ -7,9 +7,18 @@ export const About = () => {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
       <p className={styles.aboutP}>
-        In addition to my passion for coding, I love to spend my free time
-        playing volleyball, kickball, and disc golf.{" "}
+        With a passion for learning new things, I pursued and graduated from UCF
+        Full Stack Coding Bootcamp. The experience was challenging yet
+        incredibly rewarding, equipping me with the skills and adoration to
+        embark on a career in software development.{" "}
       </p>
+      <p className={styles.aboutP}>
+        In addition to my passion for coding, I'm a dedicated dog mom, spending
+        quality time with my furry companions. I also enjoy staying active
+        through volleyball, kickball and disc golf, finding balance and joy in
+        both my professional and personal life.
+      </p>
+
       <div className={styles.content}>
         <img
           src={getImageUrl("about/about.png")}

@@ -2,10 +2,10 @@
 
 .container {
   position: relative;
-  /* background-color: rgba(12, 12, 12, 0.6); */
+  background-color: rgba(12, 12, 12, 0.6);
   border-radius: 15px;
-  padding: 73px;
-  margin-top: 129px;
+  padding: 10px;
+  margin-top: 79px;
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
@@ -34,6 +34,7 @@
   color: var(--color-text);
   padding: 10px;
   font-family: var(---font-roboto);
+  font-size: 13px;
 }
 
 

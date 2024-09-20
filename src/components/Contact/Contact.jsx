@@ -33,7 +33,7 @@ export const Contact = () => {
           <h2>Contact</h2>
           <p>Look forward to connecting!</p>
           <a className={styles.topBtn} onClick={handleClick}>
-            Scroll to top <i class="bi bi-arrow-up-circle"></i>
+            Top <i class="bi bi-arrow-up-circle ps-1"></i>
           </a>
         </div>
         <ul className={styles.links}>
