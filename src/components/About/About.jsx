@@ -8,7 +8,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <p className={styles.aboutP}>
         In addition to my passion for coding, I love to spend my free time
-        playing volleyball, kickball, and disc golf{" "}
+        playing volleyball, kickball, and disc golf.{" "}
       </p>
       <div className={styles.content}>
         <img

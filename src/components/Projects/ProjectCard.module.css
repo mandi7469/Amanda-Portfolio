@@ -12,8 +12,10 @@
 
 .container:hover {
   color: #111;
-  background: #9eefe5cb;
-  box-shadow: 0 0 100px #9eefe5;
+  background: linear-gradient(180deg, #9eefe5cb 0%,
+  rgb(255, 255, 255) 100%);
+  box-shadow: 0 0 100px #c0e0de;
+  transform: scale(1.03);
 }
 
 .image {
