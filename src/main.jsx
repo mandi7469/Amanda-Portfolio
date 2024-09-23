@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
-import './index.css'
+import './Main.css'
 // font imports
 import '@fontsource-variable/playfair-display';
 import "@fontsource/roboto"

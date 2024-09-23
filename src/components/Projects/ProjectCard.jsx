@@ -25,7 +25,7 @@ export const ProjectCard = ({ project: { title, imageSrc, description, skills, d
             <a href={demo} className={styles.link}><i className="bi bi-code-slash pe-1"></i>
               Demo
             </a>
-            <a href={source} className={styles.link}><i class="bi bi-github pe-1"></i>
+            <a href={source} className={styles.link}><i className="bi bi-github pe-1"></i>
               GitHub
             </a>
           </div>
