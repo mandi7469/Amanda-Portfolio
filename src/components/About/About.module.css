@@ -19,6 +19,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  padding-left: 10px;
 }
 
 .content {
@@ -97,7 +98,7 @@
   }
 
   .aboutItem {
-    padding-left: 0;
-    padding-right: 0;
+    padding: 5px;
+    
   }
 }
