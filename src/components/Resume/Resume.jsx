@@ -1,3 +1,4 @@
+// imports
 import React from "react";
 import styles from "./Resume.module.css";
 import skills from "../data/skills.json";
@@ -5,20 +6,22 @@ import history from "../data/history.json";
 import pdf from "../../../assets/history/AmandaChangaResume.pdf";
 import { getImageUrl } from "../../utils";
 
+// this component renders the "resume" section - using the data from /data/skills.json & history.json
 export const Resume = () => {
   return (
     <section className={styles.container} id="resume">
       <h2 className={styles.title}>Resume</h2>
+      {/* downloadable link for the resume as a PDF */}
       <a
         href={pdf}
         download="AmandaChangaResume.pdf"
         className={styles.resumeLink}
-        
       >
         <i className="bi bi-file-earmark-text pe-1"></i>Download
       </a>
       <div className={styles.content}>
         <div className={styles.skills}>
+          {/* skills section */}
           {skills.map((skill, id) => {
             return (
               <div key={id} className={styles.skill}>
@@ -31,6 +34,7 @@ export const Resume = () => {
           })}
         </div>
         <ul className={styles.history}>
+          {/* work history section */}
           {history.map((historyItem, id) => {
             return (
               <li key={id} className={styles.historyItem}>

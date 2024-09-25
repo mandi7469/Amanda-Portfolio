@@ -1,3 +1,4 @@
+//imports
 import styles from "./App.module.css";
 import Navbar from "./components/Navbar/Navbar";
 import { Hero } from "./components/Hero/Hero";
@@ -8,7 +9,7 @@ import { Contact } from "./components/Contact/Contact";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-
+//main component to render the entire application structure 
 function App() {
   return (
     <>

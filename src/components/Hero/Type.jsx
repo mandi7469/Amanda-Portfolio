@@ -1,7 +1,9 @@
+// imports
 import React from "react";
 import Typewriter from "typewriter-effect";
 
 function Type() {
+  // this component renders a typewriter effect with various text strings
   return (
     <Typewriter
       options={{

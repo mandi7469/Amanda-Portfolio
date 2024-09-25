@@ -1,3 +1,4 @@
+/* styling for "hero" section */
 @import "../../vars.css";
 
 .container {
@@ -64,6 +65,7 @@
   animation-timing-function: ease-in-out;
 }
 
+/* styling for hero img */
 @keyframes floating {
   0% {
     transform: translate(0, 0px);
@@ -90,6 +92,7 @@
   z-index: 0;
 }
 
+/* styling for sreen size */
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
@@ -97,5 +100,14 @@
 
   .content {
     align-items: center;
+  }
+
+  .title {
+    font-size: 55px;
+    padding-top: 10px;
+  }
+
+  .description {
+    font-size: 25px;
   }
 }

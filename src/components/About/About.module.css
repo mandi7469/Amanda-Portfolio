@@ -1,3 +1,4 @@
+/* styling for the about section */
 @import "../../vars.css";
 
 .container {
@@ -37,7 +38,6 @@
   font-size: 13px;
 }
 
-
 .aboutItems {
   color: var(--color-text);
   display: flex;
@@ -73,13 +73,13 @@
 }
 
 .aboutItem p {
-    font-family: var(---font-roboto);
-    font-size: 15px;
-  }
+  font-family: var(---font-roboto);
+  font-size: 15px;
+}
 
+/* styling for screen size */
 @media screen and (max-width: 830px) {
   .container {
-    /* background-color: transparent; */
     padding-left: 0;
     padding-right: 0;
   }

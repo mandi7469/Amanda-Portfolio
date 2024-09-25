@@ -1,9 +1,10 @@
+// imports
 import React from "react";
 import styles from "./Projects.module.css";
-
 import projects from "../data/projects.json";
 import { ProjectCard } from "./ProjectCard";
 
+// this compontent renders the "project" section which includes the projectCard component
 export const Projects = () => {
   return (
     <section className={styles.container} id="projects">

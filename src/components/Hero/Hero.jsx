@@ -1,8 +1,10 @@
+// imports
 import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./Hero.module.css";
 import Type from "./Type"
 
+// this compontent renders the "hero" section which includes the type component
 export const Hero = () => {
   return (
     <section className={styles.container}>

@@ -1,11 +1,15 @@
+// imports
 import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./About.module.css";
 
+// this component renders the "about" section, providing info about me
 export const About = () => {
   return (
     <section className={styles.container} id="about">
+      {/* section container with an "about" id so when user clicks the "about" button in the nav, it scrolls to the appropriate section */}
       <h2 className={styles.title}>About</h2>
+      {/* paragraph about my background */}
       <p className={styles.aboutP}>
         With a passion for learning new things, I pursued and graduated from UCF
         Full Stack Coding Bootcamp. The experience was challenging yet
@@ -20,6 +24,7 @@ export const About = () => {
       </p>
 
       <div className={styles.content}>
+        {/* container for images and skill list */}
         <img
           src={getImageUrl("about/about.png")}
           alt="Web illustrations by Storyset"
@@ -33,6 +38,7 @@ export const About = () => {
               alt="Cursor-icon by Icons8"
             />
             <div className={styles.aboutItemText}>
+              {/* skill details */}
               <h3>Front-End Developer</h3>
               <p>
                 Experience in building responsive and optimized applications

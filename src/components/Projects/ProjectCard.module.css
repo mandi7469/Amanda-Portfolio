@@ -1,19 +1,26 @@
+/* styling for individual cards */
 @import "../../vars.css";
 
 .container {
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, rgba(192, 224, 222, 0.671) 0%,
-  rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(192, 224, 222, 0.671) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
   padding: 18px 24px;
   max-width: 345px;
 }
 
 .container:hover {
   color: #111;
-  background: linear-gradient(180deg, #9eefe5cb 0%,
-  rgba(255, 255, 255, 0.847) 100%);
+  background: linear-gradient(
+    180deg,
+    #9eefe5cb 0%,
+    rgba(255, 255, 255, 0.847) 100%
+  );
   box-shadow: 0 0 100px #c0e0de;
   transform: scale(1.03);
 }
@@ -27,7 +34,6 @@
   font-weight: 600;
   font-family: var(--font-playfair);
 }
-
 
 .description {
   margin-top: 6px;
@@ -43,7 +49,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   gap: 6px;
-  list-style:none;
+  list-style: none;
   font-family: var(--font-roboto);
 }
 

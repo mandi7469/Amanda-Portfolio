@@ -1,13 +1,18 @@
+// imports
 import React, { useState, useEffect } from "react";
 import styles from "./Contact.module.css";
 
+// this compontent renders the "contact" section, providing contact information
 export const Contact = () => {
+  // variable declration for the date used in the footer
   let date = new Date();
   let year = date.getFullYear();
 
   const [showButton, setShowButton] = useState(false);
+  // this effect runs once when the component mounts and updates the "showButton" state based on the scroll position
 
   useEffect(() => {
+    // this function handles the scroll event
     const handleScroll = () => {
       if (window.scrollY > 200) {
         setShowButton(true);
@@ -22,6 +27,7 @@ export const Contact = () => {
     };
   }, []);
 
+  // this function handles the click event on the button and scrolls it to the top of the page
   const handleClick = () => {
     window.scrollTo({ top: 0 });
   };
@@ -29,6 +35,7 @@ export const Contact = () => {
   return (
     <>
       <section id="contact" className={styles.container}>
+        {/* section container with a "contact" id so when user clicks the "contact" button in the nav, it scrolls to the appropriate section */}
         <div className={styles.text}>
           <h2>Contact</h2>
           <p>Look forward to connecting!</p>
@@ -39,7 +46,10 @@ export const Contact = () => {
         <ul className={styles.links}>
           <li className={styles.link}>
             <a href="https://www.linkedin.com/in/amanda-changa/">
-              <i className="bi bi-linkedin pe-2" style={{ color: "#c0e0de" }}></i>
+              <i
+                className="bi bi-linkedin pe-2"
+                style={{ color: "#c0e0de" }}
+              ></i>
               LinkedIn
             </a>
           </li>
@@ -51,7 +61,10 @@ export const Contact = () => {
           </li>
           <li className={styles.link}>
             <a href="mailto:mandi7469@aol.com">
-              <i className="bi bi-envelope pe-2" style={{ color: "#c0e0de" }}></i>
+              <i
+                className="bi bi-envelope pe-2"
+                style={{ color: "#c0e0de" }}
+              ></i>
               Email
             </a>
           </li>

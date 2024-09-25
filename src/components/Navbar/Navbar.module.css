@@ -1,3 +1,4 @@
+/* styling for navbar */
 @import "../../vars.css";
 
 .navbar {
@@ -34,10 +35,7 @@
   color: var(--color-text);
   font-family: var(--font-playfair);
   text-decoration: none;
-  /* text-shadow: 1px 1px 4px #9eefe5; */
   -webkit-text-stroke: 1px #c0e0de;
-  
-  
 }
 
 .menuItems a:hover {
@@ -45,11 +43,12 @@
 }
 
 .menuBtn {
-    height: 40px;
-    width: 40px;
-    display: none;
-  }
+  height: 40px;
+  width: 40px;
+  display: none;
+}
 
+/* styling for screen size */
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;

@@ -1,3 +1,4 @@
+/* styling for the main  */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,13 +9,15 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Changes the thumb color - Add rounded corners */
 ::-webkit-scrollbar-thumb {
-  background-color: #C0E0DE; /* Changes the thumb color */
-  border-radius: 5px; /* Add rounded corners */
+  background-color: #c0e0de;
+  border-radius: 5px;
 }
 
+/* Adjusts width and height - Changes the thumb color */
 ::-webkit-scrollbar {
-  width: 10px; /* Adjusts width*/
+  width: 10px;
   height: 10px;
-  background-color: black; /* Changes the thumb color */
+  background-color: black;
 }
