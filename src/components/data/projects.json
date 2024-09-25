@@ -10,7 +10,7 @@
   {
     "title": "Shelfie",
     "imageSrc": "projects/shelfie.png",
-    "description": "An application that allows the user to create and maintain a collection of books that they have read, or wish to read in the future.",
+    "description": "An application that allows the user to search for books they have read, or wish to read in the future and add to a collection. Accessibility features included.",
     "skills": ["Handlebars", "Express", "Node", "PostgreSQL"],
     "demo": "https://shelfie-53sl.onrender.com/",
     "source": "https://github.com/mandi7469/Shelfie"
