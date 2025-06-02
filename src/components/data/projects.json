@@ -16,6 +16,14 @@
     "source": "https://github.com/mandi7469/Shelfie"
   },
   {
+    "title": "Book Search Engine",
+    "imageSrc": "projects/bookSearchEngine.png",
+    "description": "An application that was a fully functioning Google Books API search engine built with RESTful API and the MERN stack, refactored to be a GraphQL API built with Apollo Server.",
+    "skills": ["MERN Stack", "GraphQL", "Google Books API"],
+    "demo": "https://book-search-engine-za4z.onrender.com/",
+    "source": "https://github.com/mandi7469/Book-Search-Engine"
+  },
+  {
     "title": "Logo Maker",
     "imageSrc": "projects/logoMaker.png",
     "description": "A command-line application that takes in user input to generate a logo and save it as an SVG file. Walkthrough video linked to demonstrate its functionality.",
