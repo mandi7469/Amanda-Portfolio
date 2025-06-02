@@ -11,16 +11,13 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       {/* paragraph about my background */}
       <p className={styles.aboutP}>
-        With a passion for learning new things, I pursued and graduated from UCF
-        Full Stack Coding Bootcamp. The experience was challenging yet
-        incredibly rewarding, equipping me with the skills and adoration to
-        embark on a career in software development.{" "}
-      </p>
-      <p className={styles.aboutP}>
-        In addition to my passion for coding, I'm a dedicated dog mom, spending
-        quality time with my furry companions. I also enjoy staying active
-        through volleyball, kickball and disc golf, finding balance and joy in
-        both my professional and personal life.
+        A driven and collaborative software developer from UCF Full-Stack Coding
+        Bootcamp with intensive training and hands-on project experience.
+        Proficient in HTML, CSS, JavaScript, third-party APIs, Progressive Web
+        Applications, MySQL, API design, and the MERN stack. I excel at learning
+        new technologies and resolving complex technical issues, meeting
+        deadlines and delivering high-quality web applications, as part of a
+        team or independently.{" "}
       </p>
 
       <div className={styles.content}>
