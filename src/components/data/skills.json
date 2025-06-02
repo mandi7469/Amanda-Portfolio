@@ -20,6 +20,10 @@
     "imageSrc": "skills/bootstrap.png"
   },
   {
+    "title": "Material UI",
+    "imageSrc": "skills/materialui.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -42,9 +46,5 @@
   {
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "Visme",
-    "imageSrc": "skills/visme.png"
   }
 ]
