@@ -13,7 +13,7 @@ export const Hero = () => {
         <div className={styles.description}>
                 <Type />
               </div>
-        <a href="mailto:mandi7469@aol.com" className={styles.contactBtn}>
+        <a href="mailto:amandachanga7@gmail.com" className={styles.contactBtn}>
           Email Me
         </a>
       </div>

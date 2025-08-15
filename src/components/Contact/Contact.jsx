@@ -60,7 +60,7 @@ export const Contact = () => {
             </a>
           </li>
           <li className={styles.link}>
-            <a href="mailto:mandi7469@aol.com">
+            <a href="mailto:amandachanga7@gmail.com">
               <i
                 className="bi bi-envelope pe-2"
                 style={{ color: "#c0e0de" }}

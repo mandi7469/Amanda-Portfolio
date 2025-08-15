@@ -2,7 +2,7 @@
   {
     "title": "Cosmic Quest",
     "imageSrc": "projects/cosmicQuest.png",
-    "description": "Text-based Scifi Video game using restful API. Featuring background audio and text-to-speech audio.",
+    "description": "Text-based sci-fi video game using restful API. Featuring background audio and text-to-speech audio.",
     "skills": ["MongoDB", "Express", "React", "Node"],
     "demo": "https://cosmic-quest.onrender.com/",
     "source": "https://github.com/mandi7469/Cosmic-Quest"
