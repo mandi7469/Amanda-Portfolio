@@ -46,5 +46,13 @@
   {
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "WordPress",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "Visme",
+    "imageSrc": "skills/visme.png"
   }
 ]

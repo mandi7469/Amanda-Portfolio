@@ -1,5 +1,13 @@
 [
   {
+    "title": "Horizon Energy",
+    "imageSrc": "projects/horizonEnergy.png",
+    "description": "Professional engineering business website built with WordPress",
+    "skills": ["WordPress", "Elementor", "GoDaddy", "Hostinger"],
+    "demo": "https://hrzeng.com/",
+    "source": "https://github.com/mandi7469"
+  },
+  {
     "title": "Cosmic Quest",
     "imageSrc": "projects/cosmicQuest.png",
     "description": "Text-based sci-fi video game using restful API. Featuring background audio and text-to-speech audio.",

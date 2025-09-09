@@ -14,7 +14,7 @@ export const About = () => {
         A driven and collaborative software developer from UCF Full-Stack Coding
         Bootcamp with intensive training and hands-on project experience.
         Proficient in HTML, CSS, JavaScript, third-party APIs, Progressive Web
-        Applications, MySQL, API design, and the MERN stack. I excel at learning
+        Applications, MySQL, API design, the MERN stack, and WordPress. I excel at learning
         new technologies and resolving complex technical issues, meeting
         deadlines and delivering high-quality web applications, as part of a
         team or independently.{" "}
@@ -61,7 +61,7 @@ export const About = () => {
               alt="web-design-icon by Icons8"
             />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Website Developer & UI Design</h3>
               <p>
                 Deep understanding of user experience principles and visual
                 design best practices

@@ -10,9 +10,9 @@ function Type() {
         strings: [
           "Front-End Developer",
           "Back-End Developer",
+          "Website Developer & Design",
           "MERN Stack Developer",
-          "Web Design",
-          "Contact me for more info",
+          "Contact me for more info!",
         ],
         autoStart: true,
         loop: true,
