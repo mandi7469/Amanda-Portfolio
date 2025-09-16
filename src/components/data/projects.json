@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Horizon Energy",
+    "imageSrc": "projects/horizonEnergy.png",
+    "description": "Professional engineering business website built with WordPress.",
+    "skills": ["WordPress", "Elementor", "GoDaddy", "Hostinger"],
+    "demo": "https://hrzeng.com/",
+    "source": "https://github.com/mandi7469"
+  },
+  {
+    "title": "Cosmic Quest",
+    "imageSrc": "projects/cosmicQuest.png",
+    "description": "Text-based sci-fi video game using restful API. Featuring background audio and text-to-speech audio.",
+    "skills": ["MongoDB", "Express", "React", "Node"],
+    "demo": "https://cosmic-quest.onrender.com/",
+    "source": "https://github.com/mandi7469/Cosmic-Quest"
+  },
+  {
+    "title": "Fairway Favorites",
+    "imageSrc": "projects/fairwayFavorites.png",
+    "description": "The ultimate app for disc golf fanatics, with features including: disc search, favorites page, hangman game, scorecard, UDisc search and video uploads.",
+    "skills": ["React", "DiscIt API", "localForage", "CSS"],
+    "demo": "https://fairway-favorites.netlify.app/",
+    "source": "https://github.com/mandi7469/Fairway-Favorites"
+  },
+  {
+    "title": "Shelfie",
+    "imageSrc": "projects/shelfie.png",
+    "description": "An application that allows the user to search for books they have read, or wish to read in the future and add to a collection. Accessibility features included.",
+    "skills": ["Handlebars", "Express", "Node", "PostgreSQL"],
+    "demo": "https://shelfie-53sl.onrender.com/",
+    "source": "https://github.com/mandi7469/Shelfie"
+  },
+  {
+    "title": "Book Search Engine",
+    "imageSrc": "projects/bookSearchEngine.png",
+    "description": "An application that was a fully functioning Google Books API search engine built with RESTful API and the MERN stack, refactored to be a GraphQL API built with Apollo Server.",
+    "skills": ["MERN Stack", "GraphQL", "Google Books API"],
+    "demo": "https://book-search-engine-za4z.onrender.com/",
+    "source": "https://github.com/mandi7469/Book-Search-Engine"
+  },
+  {
+    "title": "Logo Maker",
+    "imageSrc": "projects/logoMaker.png",
+    "description": "A command-line application that takes in user input to generate a logo and save it as an SVG file. Walkthrough video linked to demonstrate its functionality.",
+    "skills": ["Node", "JavaScript", "Inquirer"],
+    "demo": "https://drive.google.com/file/d/1jgl9_uwQXjhocPaFKiaU2EMhKSNe1saS/view?usp=sharing",
+    "source": "https://github.com/mandi7469/SVG-Logo-Maker"
+  },
+  {
+    "title": "Task Board",
+    "imageSrc": "projects/taskBoard.png",
+    "description": "An application that allows users to manage, drag and delete tasks. Featuring status color changing. ",
+    "skills": ["JQuery", "JavaScript", "HTML", "CSS"],
+    "demo": "https://mandi7469.github.io/Task-Board/",
+    "source": "https://github.com/mandi7469/Task-Board"
+  },
+  {
+    "title": "Employee Tracker",
+    "imageSrc": "projects/employeeTracker.png",
+    "description": "A command-line application to manage a company's employee database. Walkthrough video linked to demonstrate its functionality.",
+    "skills": ["Node", "PostgreSQL", "Inquirer"],
+    "demo": "https://drive.google.com/file/d/1coPUpQGTgcaYGv6AJaD5MF0DFNtYHn3U/view?usp=sharing",
+    "source": "https://github.com/mandi7469/SQL-Employee-Tracker"
+  }
+ 
+]
