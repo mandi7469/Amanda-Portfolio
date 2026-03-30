@@ -11,13 +11,20 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       {/* paragraph about my background */}
       <p className={styles.aboutP}>
-        A driven and collaborative software developer from UCF Full-Stack Coding
-        Bootcamp with intensive training and hands-on project experience.
-        Proficient in HTML, CSS, JavaScript, third-party APIs, Progressive Web
-        Applications, MySQL, API design, the MERN stack, and WordPress. I excel at learning
-        new technologies and resolving complex technical issues, meeting
-        deadlines and delivering high-quality web applications, as part of a
-        team or independently.{" "}
+        I’m a full-stack developer who enjoys building where creativity meets
+        functionality. With a background in both development and design, I
+        create responsive, user-focused applications from concept to deployment.
+      </p>
+      <p className={styles.aboutP}>
+        I’ve worked with modern technologies like React, Next.js, Node.js, and
+        MongoDB, and have experience delivering real-world solutions through
+        freelance and collaborative projects. Whether I’m developing a
+        full-stack application or designing a custom website, I focus on
+        performance, usability, and clean code.
+      </p>
+      <p className={styles.aboutP}>
+        I’m always learning, exploring new technologies, and looking for
+        opportunities to build meaningful digital experiences.
       </p>
 
       <div className={styles.content}>

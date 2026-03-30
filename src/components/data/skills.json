@@ -12,8 +12,16 @@
     "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "JQuery",
-    "imageSrc": "skills/jquery.png"
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind-css.png"
   },
   {
     "title": "Bootstrap",
@@ -24,8 +32,12 @@
     "imageSrc": "skills/materialui.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "JQuery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "skills/next.js.png"
   },
   {
     "title": "Node",
@@ -43,10 +55,7 @@
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
-  {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
+
   {
     "title": "WordPress",
     "imageSrc": "skills/wordpress.png"

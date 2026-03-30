@@ -21,7 +21,7 @@ export const Resume = () => {
       </a>
       <div className={styles.content}>
         <div className={styles.skills}>
-          {/* skills section */}
+          {/* skills section - images from https://icons8.com/icons 60x60*/}
           {skills.map((skill, id) => {
             return (
               <div key={id} className={styles.skill}>

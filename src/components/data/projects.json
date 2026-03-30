@@ -16,6 +16,14 @@
     "source": "https://github.com/mandi7469/Cosmic-Quest"
   },
   {
+    "title": "Recipe Vault",
+    "imageSrc": "projects/recipeVault.png",
+    "description": "A full-stack recipe management application where users can browse, search, and manage their own recipes.",
+    "skills": ["React", "TypeScript", "Next.js", "Tailwind CSS", "MongoDB"],
+    "demo": "https://recipe-vault-ten.vercel.app/",
+    "source": "https://github.com/mandi7469/recipe-vault"
+  },
+  {
     "title": "Fairway Favorites",
     "imageSrc": "projects/fairwayFavorites.png",
     "description": "The ultimate app for disc golf fanatics, with features including: disc search, favorites page, hangman game, scorecard, UDisc search and video uploads.",
@@ -30,14 +38,6 @@
     "skills": ["Handlebars", "Express", "Node", "PostgreSQL"],
     "demo": "https://shelfie-53sl.onrender.com/",
     "source": "https://github.com/mandi7469/Shelfie"
-  },
-  {
-    "title": "Book Search Engine",
-    "imageSrc": "projects/bookSearchEngine.png",
-    "description": "An application that was a fully functioning Google Books API search engine built with RESTful API and the MERN stack, refactored to be a GraphQL API built with Apollo Server.",
-    "skills": ["MERN Stack", "GraphQL", "Google Books API"],
-    "demo": "https://book-search-engine-za4z.onrender.com/",
-    "source": "https://github.com/mandi7469/Book-Search-Engine"
   },
   {
     "title": "Logo Maker",
